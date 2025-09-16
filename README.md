@@ -1,18 +1,19 @@
-<a href="https://profile.saputratech.web.id">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark-new.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header-new.svg" />
-    <img 
-      alt="SaputraTech | Freelancer · Front-End Developer · UI Designer 🎨" 
-      src="./header-new.svg" 
-      width="100%" 
-      style="border-radius: 12px;"
-    />
-  </picture>
-</a>
+<div style="text-align: center; margin: 0 auto;">
+  <a href="https://profile.saputratech.web.id">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./header-dark-new.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./header-new.svg" />
+      <img 
+        alt="SaputraTech | Freelancer · Front-End Developer · UI Designer 🎨" 
+        src="./header-new.svg" 
+        style="border-radius: 12px; max-width: 896px; width: 100%; height: auto; display: block; margin: 0 auto;"
+      />
+    </picture>
+  </a>
+</div>
 
 <header>
-  <div style="text-align: center; margin-top: 16px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+  <div style="margin-top: 16px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
     <a href="https://saputratech.web.id" target="_blank">
       <img 
         alt="My Website" 
