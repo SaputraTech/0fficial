@@ -2,20 +2,34 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
-    <img alt="SaputraTech | Freelancer · Front-End Developer · UI Designer 🎨" src="./header.svg" width="100%" />
+    <img 
+      alt="SaputraTech | Freelancer · Front-End Developer · UI Designer 🎨" 
+      src="./header.svg" 
+      width="100%" 
+      style="border-radius: 12px;"
+    />
   </picture>
 </a>
 
 <header>
-  <div align="center">
-    <a href="https://saputratech.web.id">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=saputratech&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
+  <div style="text-align: center; margin-top: 16px; display: flex; justify-content: center; gap: 12px; flex-wrap: wrap;">
+    <a href="https://saputratech.web.id" target="_blank">
+      <img 
+        alt="My Website" 
+        src="https://img.shields.io/badge/Website-SaputraTech-7733ff?style=for-the-badge&logo=globe&logoColor=ffffff&labelColor=334155"
+      >
     </a>
-    <a href="https://www.instagram.com/skartivpn_official">
-      <img alt="My Instagram Profile" src="https://img.shields.io/badge/Instagram-SkartiVPN-7733ff?style=flat&logo=twitter&logoColor=ffffff&labelColor=334155">
+    <a href="https://www.instagram.com/skartivpn_official" target="_blank">
+      <img 
+        alt="Instagram Profile" 
+        src="https://img.shields.io/badge/Instagram-SkartiVPN-7733ff?style=for-the-badge&logo=instagram&logoColor=ffffff&labelColor=334155"
+      >
     </a>
-    <a href="https://t.me/SkartiVPN">
-      <img alt="Telegram Community" src="https://img.shields.io/static/v1?color=%237733ff&label=Telegram&message=@SkartiVPN&style=flat&logo=figma&logoColor=ffffff&labelColor=334155">
+    <a href="https://t.me/SkartiVPN" target="_blank">
+      <img 
+        alt="Telegram Community" 
+        src="https://img.shields.io/badge/Telegram-@SkartiVPN-7733ff?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=334155"
+      >
     </a>
   </div>
 </header>
