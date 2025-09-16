@@ -1,3 +1,18 @@
+<section style="display: flex; flex-direction: column; align-items: center; gap: 16px; margin: 0 auto; text-align: center;">
+  
+  <!-- Header Image -->
+  <a href="https://profile.saputratech.web.id">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./header-dark-new.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./header-new.svg" />
+      <img 
+        alt="SaputraTech | Freelancer · Front-End Developer · UI Designer 🎨" 
+        src="./header-new.svg" 
+        style="border-radius: 12px; max-width: 896px; width: 100%; height: auto;"
+      />
+    </picture>
+  </a>
+
 <!-- Badges -->
 <header>
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 16px; text-align: center;">
