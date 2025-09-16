@@ -1,14 +1,10 @@
 <a href="https://profile.saputratech.web.id">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./header.svg" />
     <img 
       alt="SaputraTech | Freelancer · Front-End Developer · UI Designer 🎨" 
       src="./header.svg" 
       width="100%" 
       style="border-radius: 12px;"
     />
-  </picture>
 </a>
 
 <header>
